@@ -8,3 +8,5 @@ Now, we know what you may be thinking: “That’s obvious. It gets hotter.” B
 
 Instructions
 This activity is broken down into two deliverables, WeatherPy and VacationPy.
+
+API Keys have created a unique connection to obtain Weather and Geo data to draw inferences on the relationships between variables in cities, geo relationships, and more.
